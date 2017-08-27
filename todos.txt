@@ -1,0 +1,8 @@
+[x] Buat register user (CREATE)
+[x] Buat authentication dan authorization user
+[x] Hanya bisa READ, UPDATE dan DELETE sesuai authorization
+[x] Buat CRUD todo list
+[x] Hanya bisa CRUD todo list sesuai authorization
+[ ] Buat client buat akses API server
+[ ] Buat fitur login dengan menggunakan akun FACEBOOK
+[ ] Buat FITUR TAMBAHAN yang unik
